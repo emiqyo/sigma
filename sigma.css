@@ -1,0 +1,30 @@
+h1 {
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+}
+
+.box {
+    width: 50%;
+    margin: 50px;
+    
+}
+img {
+    margin: 50px;
+    box-shadow: 10px 10px 100px 10px rgb(255, 255, 255);
+   
+}
+
+body {
+    font-size: 150%;
+    background-color:  black;
+    color: white;
+    font-family: cursive;
+}
+hr {
+    color: cadetblue;
+    size: 80%;
+    height: 5px;
+}
